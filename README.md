@@ -14,7 +14,7 @@ Computer vision works in three basic steps:
 - Inside downloaded directory open CMD / Shell and run following commands ``` python3 -m pip install -r requirements.txt ``` or ``` python -m pip install -r requirements.txt ```
 
 #### Usage 
-[Face Detection](https://github.com/nairitya03/Minor-Project) 
+[Face Detection](https://github.com/nairitya03/Major_Project/tree/main/Face%20Detection) 
 - Run Live Face Detect.py.
 - Choose How to Detect Face 	
 	1. From Image. 
